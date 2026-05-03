@@ -1,0 +1,5 @@
+PyQt6
+PyMuPDF
+requests
+python-docx
+docx2pdf
